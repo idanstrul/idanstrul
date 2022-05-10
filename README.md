@@ -1,5 +1,9 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Idan.</h1>
-<h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
+<h3 align="center">
+  Junior Full-Stack / Frontend Web Developer, passionate about solving challenges, with experience in writing single-page-applications using the latest WEB technologies such as Node.js, Vue.js, Vuex, React, Redux, Angular and MongoDb.
+Graduate of the Coding Academy - An intensive coding bootcamp (640 hours) that qualifies Full Stack developers.
+Graduate of Tel-Aviv University – B.A. in Economics and Psychology (Finished with excellence).
+</h3>
 
 <!-- <h1 align="center">Hi 👋, I'm Idan</h1>
 <h3 align="center">A passionate full-stack / frontend developer from Israel</h3> -->
