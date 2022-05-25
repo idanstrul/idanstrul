@@ -57,15 +57,18 @@ Graduate of Tel-Aviv University – B.A. in Economics and Psychology (Finished w
   
 </br>
   
-  ## 📊 My Github Stats
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idanstrul&show_icons=true&locale=en&layout=compact" alt="idanstrul" /></p>
+## 📊 My Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idanstrul&show_icons=true&locale=en" alt="idanstrul" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idanstrul&show_icons=true&locale=en&layout=compact" alt="idanstrul"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idanstrul&" alt="idanstrul" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=idanstrul&show_icons=true&locale=en" alt="idanstrul"/>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idanstrul" alt="idanstrul" /></a> </p> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idanstrul&" alt="idanstrul"/>
+
+  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idanstrul" alt="idanstrul"/></a> </p> -->
+</p>  
+
 
 </br>
 
