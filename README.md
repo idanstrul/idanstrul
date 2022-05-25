@@ -60,11 +60,11 @@ Graduate of Tel-Aviv University – B.A. in Economics and Psychology (Finished w
 ## 📊 My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idanstrul&show_icons=true&locale=en&layout=compact" alt="idanstrul"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idanstrul&show_icons=true&locale=en&layout=compact" alt="idanstrul" width="40%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=idanstrul&show_icons=true&locale=en" alt="idanstrul"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=idanstrul&show_icons=true&locale=en" alt="idanstrul" width="47.9%"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idanstrul&" alt="idanstrul"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idanstrul&" alt="idanstrul" width="45%"/>
 
   <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idanstrul" alt="idanstrul"/></a> </p> -->
 </p>  
