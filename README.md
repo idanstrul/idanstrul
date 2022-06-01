@@ -1,4 +1,5 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Idan.</h1>
+<h1 align="center">Hello <img width=30 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Idan.</h1>
+
 <h3 align="center">
   Junior Full-Stack / Frontend Web Developer, passionate about solving challenges, with experience in writing single-page-applications using the latest WEB technologies such as Node.js, Vue.js, Vuex, React, Redux, Angular and MongoDb.
 Graduate of the Coding Academy - An intensive coding bootcamp (640 hours) that qualifies Full Stack developers.
